@@ -1,0 +1,3008 @@
+{
+    "Account Upgrades": [
+      {
+        "id": "288",
+        "name": "BFM"
+      },
+      {
+        "id": "8",
+        "name": "Shelter Pass C"
+      },
+      {
+        "id": "9",
+        "name": "Shelter Pass B"
+      },
+      {
+        "id": "10",
+        "name": "Shelter Pass A"
+      },
+      {
+        "id": "11",
+        "name": "Shelter Pass S"
+      },
+      {
+        "id": "530",
+        "name": "Shelter Pass ★"
+      },
+      {
+        "id": "154",
+        "name": "Shelter Reservation"
+      },
+      {
+        "id": "151",
+        "name": "Black Flute"
+      },
+      {
+        "id": "152",
+        "name": "White Flute"
+      },
+      {
+        "id": "131",
+        "name": "Red Gigaremo"
+      },
+      {
+        "id": "181",
+        "name": "28d Hypermode Voucher"
+      },
+      {
+        "id": "180",
+        "name": "PokéRadar"
+      },
+      {
+        "id": "495",
+        "name": "PokéRadar+"
+      },
+      {
+        "id": "878",
+        "name": "PR Memory Stick"
+      },
+      {
+        "id": "382",
+        "name": "Albino Radar"
+      },
+      {
+        "id": "338",
+        "name": "Egg Pass"
+      },
+      {
+        "id": "185",
+        "name": "Lucky Seal"
+      },
+      {
+        "id": "124",
+        "name": "DayCare EXP Booster"
+      },
+      {
+        "id": "133",
+        "name": "SpyGlass"
+      },
+      {
+        "id": "132",
+        "name": "Matchup Checker"
+      },
+      {
+        "id": "130",
+        "name": "DayCare Pass"
+      },
+      {
+        "id": "299",
+        "name": "DayCare Pass x10"
+      },
+      {
+        "id": "300",
+        "name": "DayCare Pass x60"
+      },
+      {
+        "id": "336",
+        "name": "Destiny Knot"
+      },
+      {
+        "id": "627",
+        "name": "Ditto Egg Voucher"
+      },
+      {
+        "id": "188",
+        "name": "Lab Reloader"
+      },
+      {
+        "id": "599",
+        "name": "Trade Centre Expansion"
+      },
+      {
+        "id": "643",
+        "name": "Type: Null Egg Voucher"
+      },
+      {
+        "id": "162",
+        "name": "Scour Boost"
+      },
+      {
+        "id": "169",
+        "name": "Scour Slot"
+      },
+      {
+        "id": "190",
+        "name": "Shiny Charm Box"
+      },
+      {
+        "id": "285",
+        "name": "Dead Shiny Charm"
+      },
+      {
+        "id": "189",
+        "name": "Shiny Charm"
+      },
+      {
+        "id": "309",
+        "name": "Übercharm"
+      },
+      {
+        "id": "191",
+        "name": "Money Safe"
+      },
+      {
+        "id": "333",
+        "name": "Extra Training Bag"
+      },
+      {
+        "id": "591",
+        "name": "EXP. Share"
+      },
+      {
+        "id": "592",
+        "name": "Lucky Egg"
+      },
+      {
+        "id": "593",
+        "name": "Super Lucky Egg"
+      },
+      {
+        "id": "219",
+        "name": "Mega Stone Voucher 1"
+      },
+      {
+        "id": "221",
+        "name": "Mega Stone Voucher 2"
+      },
+      {
+        "id": "223",
+        "name": "Mega Stone Voucher 3"
+      },
+      {
+        "id": "225",
+        "name": "Mega Stone Voucher 4"
+      },
+      {
+        "id": "528",
+        "name": "Mega Stone Voucher 5"
+      }
+    ],
+    "Evolution Stones": [
+      {
+        "id": "19",
+        "name": "Dawn Stone"
+      },
+      {
+        "id": "20",
+        "name": "Dusk Stone"
+      },
+      {
+        "id": "15",
+        "name": "Fire Stone"
+      },
+      {
+        "id": "602",
+        "name": "Ice Stone"
+      },
+      {
+        "id": "17",
+        "name": "Leaf Stone"
+      },
+      {
+        "id": "18",
+        "name": "Moon Stone"
+      },
+      {
+        "id": "23",
+        "name": "Oval Stone"
+      },
+      {
+        "id": "21",
+        "name": "Shiny Stone"
+      },
+      {
+        "id": "22",
+        "name": "Sun Stone"
+      },
+      {
+        "id": "14",
+        "name": "ThunderStone"
+      },
+      {
+        "id": "16",
+        "name": "Water Stone"
+      }
+    ],
+    "Evolution Items": [
+      {
+        "id": "24",
+        "name": "DeepSeaScale"
+      },
+      {
+        "id": "25",
+        "name": "DeepSeaTooth"
+      },
+      {
+        "id": "26",
+        "name": "Dragon Scale"
+      },
+      {
+        "id": "34",
+        "name": "Dubious Disk"
+      },
+      {
+        "id": "29",
+        "name": "Electiriser"
+      },
+      {
+        "id": "27",
+        "name": "King's Rock"
+      },
+      {
+        "id": "30",
+        "name": "Magmariser"
+      },
+      {
+        "id": "28",
+        "name": "Metal Coat"
+      },
+      {
+        "id": "126",
+        "name": "Protector"
+      },
+      {
+        "id": "31",
+        "name": "Razor Claw"
+      },
+      {
+        "id": "32",
+        "name": "Razor Fang"
+      },
+      {
+        "id": "127",
+        "name": "Reaper Cloth"
+      },
+      {
+        "id": "175",
+        "name": "Sachet"
+      },
+      {
+        "id": "33",
+        "name": "Up-Grade"
+      },
+      {
+        "id": "176",
+        "name": "Whipped Dream"
+      }
+    ],
+    "Special Evolution Items": [
+      {
+        "id": "36",
+        "name": "Ancient Power Orb"
+      },
+      {
+        "id": "41",
+        "name": "Corona Rock"
+      },
+      {
+        "id": "37",
+        "name": "Double Hit Orb"
+      },
+      {
+        "id": "857",
+        "name": "Dragon Pulse Orb"
+      },
+      {
+        "id": "39",
+        "name": "Ice Rock"
+      },
+      {
+        "id": "38",
+        "name": "Mimic Orb"
+      },
+      {
+        "id": "40",
+        "name": "Moss Rock"
+      },
+      {
+        "id": "35",
+        "name": "Rollout Orb"
+      },
+      {
+        "id": "600",
+        "name": "Stomp Orb"
+      },
+      {
+        "id": "125",
+        "name": "Everstone"
+      }
+    ],
+    "Plates": [
+      {
+        "id": "420",
+        "name": "Flame Plate"
+      },
+      {
+        "id": "421",
+        "name": "Splash Plate"
+      },
+      {
+        "id": "422",
+        "name": "Zap Plate"
+      },
+      {
+        "id": "423",
+        "name": "Meadow Plate"
+      },
+      {
+        "id": "424",
+        "name": "Icicle Plate"
+      },
+      {
+        "id": "425",
+        "name": "Fist Plate"
+      },
+      {
+        "id": "426",
+        "name": "Toxic Plate"
+      },
+      {
+        "id": "427",
+        "name": "Earth Plate"
+      },
+      {
+        "id": "428",
+        "name": "Sky Plate"
+      },
+      {
+        "id": "429",
+        "name": "Mind Plate"
+      },
+      {
+        "id": "430",
+        "name": "Insect Plate"
+      },
+      {
+        "id": "431",
+        "name": "Stone Plate"
+      },
+      {
+        "id": "432",
+        "name": "Spooky Plate"
+      },
+      {
+        "id": "433",
+        "name": "Draco Plate"
+      },
+      {
+        "id": "434",
+        "name": "Iron Plate"
+      },
+      {
+        "id": "435",
+        "name": "Dread Plate"
+      },
+      {
+        "id": "436",
+        "name": "Pixie Plate"
+      },
+      {
+        "id": "644",
+        "name": "Fire Memory"
+      },
+      {
+        "id": "645",
+        "name": "Water Memory"
+      },
+      {
+        "id": "646",
+        "name": "Electric Memory"
+      },
+      {
+        "id": "647",
+        "name": "Grass Memory"
+      },
+      {
+        "id": "648",
+        "name": "Ice Memory"
+      },
+      {
+        "id": "649",
+        "name": "Fighting Memory"
+      },
+      {
+        "id": "650",
+        "name": "Poison Memory"
+      },
+      {
+        "id": "651",
+        "name": "Ground Memory"
+      },
+      {
+        "id": "652",
+        "name": "Flying Memory"
+      },
+      {
+        "id": "653",
+        "name": "Psychic Memory"
+      },
+      {
+        "id": "654",
+        "name": "Bug Memory"
+      },
+      {
+        "id": "655",
+        "name": "Rock Memory"
+      },
+      {
+        "id": "656",
+        "name": "Ghost Memory"
+      },
+      {
+        "id": "657",
+        "name": "Dragon Memory"
+      },
+      {
+        "id": "658",
+        "name": "Dark Memory"
+      },
+      {
+        "id": "659",
+        "name": "Steel Memory"
+      },
+      {
+        "id": "660",
+        "name": "Fairy Memory"
+      }
+    ],
+    "Forme-Change Items": [
+      {
+        "id": "177",
+        "name": "Rain Jewel"
+      },
+      {
+        "id": "179",
+        "name": "Snow Jewel"
+      },
+      {
+        "id": "178",
+        "name": "Sun Jewel"
+      },
+      {
+        "id": "291",
+        "name": "Fan Sparkplug"
+      },
+      {
+        "id": "292",
+        "name": "Frost Sparkplug"
+      },
+      {
+        "id": "293",
+        "name": "Heat Sparkplug"
+      },
+      {
+        "id": "294",
+        "name": "Mow Sparkplug"
+      },
+      {
+        "id": "295",
+        "name": "Wash Sparkplug"
+      },
+      {
+        "id": "296",
+        "name": "Bindi"
+      },
+      {
+        "id": "297",
+        "name": "King's Shield"
+      },
+      {
+        "id": "628",
+        "name": "Glimmering Scale"
+      },
+      {
+        "id": "230",
+        "name": "X-Ray Specs"
+      },
+      {
+        "id": "311",
+        "name": "Dragon Ball"
+      },
+      {
+        "id": "384",
+        "name": "Meteorite Shard A"
+      },
+      {
+        "id": "385",
+        "name": "Meteorite Shard D"
+      },
+      {
+        "id": "386",
+        "name": "Meteorite Shard S"
+      },
+      {
+        "id": "387",
+        "name": "Gracidea"
+      },
+      {
+        "id": "388",
+        "name": "Reveal Glass"
+      },
+      {
+        "id": "389",
+        "name": "Secret Sword"
+      },
+      {
+        "id": "390",
+        "name": "Burn Drive"
+      },
+      {
+        "id": "391",
+        "name": "Chill Drive"
+      },
+      {
+        "id": "392",
+        "name": "Douse Drive"
+      },
+      {
+        "id": "393",
+        "name": "Shock Drive"
+      },
+      {
+        "id": "542",
+        "name": "Prison Bottle"
+      },
+      {
+        "id": "858",
+        "name": "Ultranecrozium Z"
+      },
+      {
+        "id": "361",
+        "name": "Blue Orb"
+      },
+      {
+        "id": "537",
+        "name": "Mythrite"
+      },
+      {
+        "id": "538",
+        "name": "Opal"
+      },
+      {
+        "id": "360",
+        "name": "Red Orb"
+      }
+    ],
+    "Summon Items": [
+      {
+        "id": "232",
+        "name": "Ice Feather"
+      },
+      {
+        "id": "233",
+        "name": "Thunder Feather"
+      },
+      {
+        "id": "234",
+        "name": "Fire Feather"
+      },
+      {
+        "id": "235",
+        "name": "Cloned Sash"
+      },
+      {
+        "id": "236",
+        "name": "Origin Sash"
+      },
+      {
+        "id": "237",
+        "name": "Thunder Fang"
+      },
+      {
+        "id": "238",
+        "name": "Fire Fang"
+      },
+      {
+        "id": "239",
+        "name": "Ice Fang"
+      },
+      {
+        "id": "240",
+        "name": "Tidal Bell"
+      },
+      {
+        "id": "241",
+        "name": "Clear Bell"
+      },
+      {
+        "id": "242",
+        "name": "GS Ball"
+      },
+      {
+        "id": "243",
+        "name": "Rock Statue"
+      },
+      {
+        "id": "244",
+        "name": "Ice Statue"
+      },
+      {
+        "id": "245",
+        "name": "Steel Statue"
+      },
+      {
+        "id": "246",
+        "name": "Red Soul Dew"
+      },
+      {
+        "id": "247",
+        "name": "Blue Soul Dew"
+      },
+      {
+        "id": "248",
+        "name": "Sapphire Orb"
+      },
+      {
+        "id": "249",
+        "name": "Ruby Orb"
+      },
+      {
+        "id": "250",
+        "name": "Jade Orb"
+      },
+      {
+        "id": "337",
+        "name": "Mage Orb"
+      },
+      {
+        "id": "251",
+        "name": "Wishing Stone"
+      },
+      {
+        "id": "252",
+        "name": "Helix Orb"
+      },
+      {
+        "id": "253",
+        "name": "Kagami"
+      },
+      {
+        "id": "254",
+        "name": "Magatama"
+      },
+      {
+        "id": "255",
+        "name": "Kusanagi"
+      },
+      {
+        "id": "256",
+        "name": "Adamant Orb"
+      },
+      {
+        "id": "257",
+        "name": "Lustrous Orb"
+      },
+      {
+        "id": "258",
+        "name": "Magma Stone"
+      },
+      {
+        "id": "259",
+        "name": "Gold Statue"
+      },
+      {
+        "id": "260",
+        "name": "Griseous Orb"
+      },
+      {
+        "id": "261",
+        "name": "Lunar Wing"
+      },
+      {
+        "id": "262",
+        "name": "Sea Crown"
+      },
+      {
+        "id": "263",
+        "name": "Nightmare Shroud"
+      },
+      {
+        "id": "264",
+        "name": "Gracidea Seed"
+      },
+      {
+        "id": "265",
+        "name": "Azure Flute"
+      },
+      {
+        "id": "266",
+        "name": "Victory Medal"
+      },
+      {
+        "id": "267",
+        "name": "Cobalt Épée"
+      },
+      {
+        "id": "268",
+        "name": "Terracotta Épée"
+      },
+      {
+        "id": "269",
+        "name": "Viridian Épée"
+      },
+      {
+        "id": "270",
+        "name": "Fujin's Lamp"
+      },
+      {
+        "id": "271",
+        "name": "Raijin's Lamp"
+      },
+      {
+        "id": "272",
+        "name": "White Stone"
+      },
+      {
+        "id": "273",
+        "name": "Black Stone"
+      },
+      {
+        "id": "274",
+        "name": "Inari's Lamp"
+      },
+      {
+        "id": "275",
+        "name": "Gray Stone"
+      },
+      {
+        "id": "276",
+        "name": "Apprentice's Épée"
+      },
+      {
+        "id": "277",
+        "name": "Music Box"
+      },
+      {
+        "id": "278",
+        "name": "Ancient Drive"
+      },
+      {
+        "id": "279",
+        "name": "Life Antler"
+      },
+      {
+        "id": "280",
+        "name": "Death Wing"
+      },
+      {
+        "id": "281",
+        "name": "Order's Crest"
+      },
+      {
+        "id": "282",
+        "name": "Diamond Tiara"
+      },
+      {
+        "id": "283",
+        "name": "Hyperspace Ring"
+      },
+      {
+        "id": "284",
+        "name": "Komainu Figurine"
+      },
+      {
+        "id": "633",
+        "name": "Kū Idol"
+      },
+      {
+        "id": "634",
+        "name": "Kāne Idol"
+      },
+      {
+        "id": "635",
+        "name": "Lono Idol"
+      },
+      {
+        "id": "636",
+        "name": "Kanaloa Idol"
+      },
+      {
+        "id": "637",
+        "name": "Eclipse Flute"
+      },
+      {
+        "id": "638",
+        "name": "Soul Heart"
+      },
+      {
+        "id": "639",
+        "name": "Spectral Leiomano"
+      },
+      {
+        "id": "865",
+        "name": "Plasma Koa"
+      },
+      {
+        "id": "640",
+        "name": "Beast Ball"
+      },
+      {
+        "id": "642",
+        "name": "Black Prism"
+      }
+    ],
+    "Mega Stones": [
+      {
+        "id": "192",
+        "name": "Abomasite"
+      },
+      {
+        "id": "193",
+        "name": "Absolite"
+      },
+      {
+        "id": "194",
+        "name": "Aerodactylite"
+      },
+      {
+        "id": "195",
+        "name": "Aggronite"
+      },
+      {
+        "id": "196",
+        "name": "Alakazite"
+      },
+      {
+        "id": "873",
+        "name": "Alomarowakite Q"
+      },
+      {
+        "id": "350",
+        "name": "Altarianite"
+      },
+      {
+        "id": "197",
+        "name": "Ampharosite"
+      },
+      {
+        "id": "540",
+        "name": "Arbokite Q"
+      },
+      {
+        "id": "533",
+        "name": "Arcanite Q"
+      },
+      {
+        "id": "358",
+        "name": "Audinite"
+      },
+      {
+        "id": "198",
+        "name": "Banettite"
+      },
+      {
+        "id": "340",
+        "name": "Beedrillite"
+      },
+      {
+        "id": "199",
+        "name": "Blastoisinite"
+      },
+      {
+        "id": "174",
+        "name": "Blazikenite"
+      },
+      {
+        "id": "594",
+        "name": "Breloomite Q"
+      },
+      {
+        "id": "876",
+        "name": "Bunborite Q"
+      },
+      {
+        "id": "558",
+        "name": "Butterfrite Q"
+      },
+      {
+        "id": "349",
+        "name": "Cameruptite"
+      },
+      {
+        "id": "200",
+        "name": "Charizardite X"
+      },
+      {
+        "id": "201",
+        "name": "Charizardite Y"
+      },
+      {
+        "id": "863",
+        "name": "Dewgongite Q"
+      },
+      {
+        "id": "359",
+        "name": "Diancite"
+      },
+      {
+        "id": "619",
+        "name": "Dragonitenite Q"
+      },
+      {
+        "id": "866",
+        "name": "Druddigonite Q"
+      },
+      {
+        "id": "818",
+        "name": "Dunsparcite Q"
+      },
+      {
+        "id": "673",
+        "name": "Espeonite Q"
+      },
+      {
+        "id": "828",
+        "name": "Farfetchite Q"
+      },
+      {
+        "id": "589",
+        "name": "Flareonite Q"
+      },
+      {
+        "id": "308",
+        "name": "Floatzelite Q"
+      },
+      {
+        "id": "868",
+        "name": "Fluxraynite Q"
+      },
+      {
+        "id": "457",
+        "name": "Flygonite Q"
+      },
+      {
+        "id": "601",
+        "name": "Froslassite Q"
+      },
+      {
+        "id": "527",
+        "name": "Furretite Q"
+      },
+      {
+        "id": "346",
+        "name": "Galladite"
+      },
+      {
+        "id": "202",
+        "name": "Garchompite"
+      },
+      {
+        "id": "203",
+        "name": "Gardevoirite"
+      },
+      {
+        "id": "204",
+        "name": "Gengarite"
+      },
+      {
+        "id": "861",
+        "name": "Girafarite Q"
+      },
+      {
+        "id": "855",
+        "name": "Glaceonite Q"
+      },
+      {
+        "id": "351",
+        "name": "Glalitite"
+      },
+      {
+        "id": "875",
+        "name": "Gogoatite Q"
+      },
+      {
+        "id": "205",
+        "name": "Gyaradosite"
+      },
+      {
+        "id": "867",
+        "name": "Hawluchite Q"
+      },
+      {
+        "id": "701",
+        "name": "Haxorite Q"
+      },
+      {
+        "id": "872",
+        "name": "Heliolite Q"
+      },
+      {
+        "id": "206",
+        "name": "Heracronite"
+      },
+      {
+        "id": "552",
+        "name": "Ho-oh-nite Q"
+      },
+      {
+        "id": "207",
+        "name": "Houndoominite"
+      },
+      {
+        "id": "571",
+        "name": "Jirachinite Q"
+      },
+      {
+        "id": "629",
+        "name": "Jolteonite Q"
+      },
+      {
+        "id": "310",
+        "name": "Jumpluffite Q"
+      },
+      {
+        "id": "383",
+        "name": "Jynxite Q"
+      },
+      {
+        "id": "208",
+        "name": "Kangaskhanite"
+      },
+      {
+        "id": "588",
+        "name": "Laprasite Q"
+      },
+      {
+        "id": "354",
+        "name": "Latiasite"
+      },
+      {
+        "id": "355",
+        "name": "Latiosite"
+      },
+      {
+        "id": "559",
+        "name": "Leafeonite Q"
+      },
+      {
+        "id": "871",
+        "name": "Liepardite Q"
+      },
+      {
+        "id": "357",
+        "name": "Lopunnite"
+      },
+      {
+        "id": "209",
+        "name": "Lucarionite"
+      },
+      {
+        "id": "553",
+        "name": "Lugianite Q"
+      },
+      {
+        "id": "550",
+        "name": "Lunupinite Q"
+      },
+      {
+        "id": "437",
+        "name": "Luxraynite Q"
+      },
+      {
+        "id": "210",
+        "name": "Manectite"
+      },
+      {
+        "id": "557",
+        "name": "Manectite Q"
+      },
+      {
+        "id": "211",
+        "name": "Mawilite"
+      },
+      {
+        "id": "212",
+        "name": "Medichamite"
+      },
+      {
+        "id": "353",
+        "name": "Metagrossite"
+      },
+      {
+        "id": "356",
+        "name": "Meteorite"
+      },
+      {
+        "id": "851",
+        "name": "Mewnite Q"
+      },
+      {
+        "id": "213",
+        "name": "Mewtwonite X"
+      },
+      {
+        "id": "214",
+        "name": "Mewtwonite Y"
+      },
+      {
+        "id": "227",
+        "name": "Mightyenite Q"
+      },
+      {
+        "id": "668",
+        "name": "Milotite Q"
+      },
+      {
+        "id": "339",
+        "name": "Ninetaleite Q"
+      },
+      {
+        "id": "556",
+        "name": "Noivernite Q"
+      },
+      {
+        "id": "641",
+        "name": "Persianite Q"
+      },
+      {
+        "id": "341",
+        "name": "Pidgeotite"
+      },
+      {
+        "id": "215",
+        "name": "Pinsirite"
+      },
+      {
+        "id": "703",
+        "name": "Pyrite Q"
+      },
+      {
+        "id": "541",
+        "name": "Raichunite Q"
+      },
+      {
+        "id": "494",
+        "name": "Rapidite Q"
+      },
+      {
+        "id": "347",
+        "name": "Sablenite"
+      },
+      {
+        "id": "352",
+        "name": "Salamencite"
+      },
+      {
+        "id": "344",
+        "name": "Sceptilite"
+      },
+      {
+        "id": "216",
+        "name": "Scizorite"
+      },
+      {
+        "id": "532",
+        "name": "Sevipernite Q"
+      },
+      {
+        "id": "348",
+        "name": "Sharpedonite"
+      },
+      {
+        "id": "313",
+        "name": "Skarmorite Q"
+      },
+      {
+        "id": "342",
+        "name": "Slowbronite"
+      },
+      {
+        "id": "664",
+        "name": "Solynxite Q"
+      },
+      {
+        "id": "343",
+        "name": "Steelixite"
+      },
+      {
+        "id": "345",
+        "name": "Swampertite"
+      },
+      {
+        "id": "862",
+        "name": "Sylveonite Q"
+      },
+      {
+        "id": "217",
+        "name": "Tyranitarite"
+      },
+      {
+        "id": "570",
+        "name": "Umbreonite Q"
+      },
+      {
+        "id": "823",
+        "name": "Vaporeonite Q"
+      },
+      {
+        "id": "218",
+        "name": "Venusaurite"
+      },
+      {
+        "id": "560",
+        "name": "Wailordite Q"
+      },
+      {
+        "id": "672",
+        "name": "Weavilite Q"
+      },
+      {
+        "id": "531",
+        "name": "Zangoosite Q"
+      },
+      {
+        "id": "551",
+        "name": "Zoroarkite Q"
+      },
+      {
+        "id": "881",
+        "name": "Scraftite Q"
+      },
+      {
+        "id": "539",
+        "name": "Adamantite"
+      },
+      {
+        "id": "381",
+        "name": "Korokunite Q"
+      }
+    ],
+    "Training Bags": [
+      {
+        "id": "315",
+        "name": "HP Bag S"
+      },
+      {
+        "id": "316",
+        "name": "HP Bag M"
+      },
+      {
+        "id": "317",
+        "name": "HP Bag L"
+      },
+      {
+        "id": "318",
+        "name": "Attack Bag S"
+      },
+      {
+        "id": "319",
+        "name": "Attack Bag M"
+      },
+      {
+        "id": "320",
+        "name": "Attack Bag L"
+      },
+      {
+        "id": "321",
+        "name": "Defence Bag S"
+      },
+      {
+        "id": "322",
+        "name": "Defence Bag M"
+      },
+      {
+        "id": "323",
+        "name": "Defence Bag L"
+      },
+      {
+        "id": "324",
+        "name": "Sp.Atk. Bag S"
+      },
+      {
+        "id": "325",
+        "name": "Sp.Atk. Bag M"
+      },
+      {
+        "id": "326",
+        "name": "Sp.Atk. Bag L"
+      },
+      {
+        "id": "327",
+        "name": "Sp.Def. Bag S"
+      },
+      {
+        "id": "328",
+        "name": "Sp.Def. Bag M"
+      },
+      {
+        "id": "329",
+        "name": "Sp.Def. Bag L"
+      },
+      {
+        "id": "330",
+        "name": "Speed Bag S"
+      },
+      {
+        "id": "331",
+        "name": "Speed Bag M"
+      },
+      {
+        "id": "332",
+        "name": "Speed Bag L"
+      },
+      {
+        "id": "335",
+        "name": "Double-Up Bag"
+      },
+      {
+        "id": "334",
+        "name": "Team Flare Bag"
+      },
+      {
+        "id": "853",
+        "name": "Reset Bag"
+      }
+    ],
+    "Incense": [
+      {
+        "id": "394",
+        "name": "Full Incense"
+      },
+      {
+        "id": "395",
+        "name": "Lax Incense"
+      },
+      {
+        "id": "396",
+        "name": "Luck Incense"
+      },
+      {
+        "id": "397",
+        "name": "Odd Incense"
+      },
+      {
+        "id": "398",
+        "name": "Pure Incense"
+      },
+      {
+        "id": "399",
+        "name": "Rock Incense"
+      },
+      {
+        "id": "400",
+        "name": "Rose Incense"
+      },
+      {
+        "id": "401",
+        "name": "Sea Incense"
+      },
+      {
+        "id": "402",
+        "name": "Wave Incense"
+      }
+    ],
+    "Consumables": [
+      {
+        "id": "666",
+        "name": "Easter Egg"
+      },
+      {
+        "id": "879",
+        "name": "Lovely Soup"
+      },
+      {
+        "id": "286",
+        "name": "Sweet Heart"
+      },
+      {
+        "id": "607",
+        "name": "Green Nectar"
+      },
+      {
+        "id": "605",
+        "name": "Purple Nectar"
+      },
+      {
+        "id": "603",
+        "name": "Red Nectar"
+      },
+      {
+        "id": "606",
+        "name": "Yellow Nectar"
+      },
+      {
+        "id": "438",
+        "name": "Black Gummi"
+      },
+      {
+        "id": "439",
+        "name": "Blue Gummi"
+      },
+      {
+        "id": "440",
+        "name": "Brown Gummi"
+      },
+      {
+        "id": "441",
+        "name": "Clear Gummi"
+      },
+      {
+        "id": "442",
+        "name": "Gold Gummi"
+      },
+      {
+        "id": "443",
+        "name": "Grass Gummi"
+      },
+      {
+        "id": "444",
+        "name": "Green Gummi"
+      },
+      {
+        "id": "445",
+        "name": "Grey Gummi"
+      },
+      {
+        "id": "446",
+        "name": "Orange Gummi"
+      },
+      {
+        "id": "447",
+        "name": "Pink Gummi"
+      },
+      {
+        "id": "448",
+        "name": "Purple Gummi"
+      },
+      {
+        "id": "449",
+        "name": "Red Gummi"
+      },
+      {
+        "id": "450",
+        "name": "Royal Gummi"
+      },
+      {
+        "id": "451",
+        "name": "Silver Gummi"
+      },
+      {
+        "id": "452",
+        "name": "Sky Gummi"
+      },
+      {
+        "id": "453",
+        "name": "White Gummi"
+      },
+      {
+        "id": "454",
+        "name": "Wonder Gummi"
+      },
+      {
+        "id": "455",
+        "name": "Yellow Gummi"
+      },
+      {
+        "id": "631",
+        "name": "Big Malasada"
+      },
+      {
+        "id": "677",
+        "name": "Perfect Cheri Berry"
+      },
+      {
+        "id": "678",
+        "name": "Perfect Chesto Berry"
+      },
+      {
+        "id": "679",
+        "name": "Perfect Pecha Berry"
+      },
+      {
+        "id": "680",
+        "name": "Perfect Rawst Berry"
+      },
+      {
+        "id": "681",
+        "name": "Perfect Aspear Berry"
+      },
+      {
+        "id": "670",
+        "name": "Doom Seed"
+      },
+      {
+        "id": "298",
+        "name": "Cookie"
+      }
+    ],
+    "Pokéblocks": [
+      {
+        "id": "704",
+        "name": "Red Pokéblock I"
+      },
+      {
+        "id": "705",
+        "name": "Red Pokéblock+ I"
+      },
+      {
+        "id": "706",
+        "name": "Red Pokéblock II"
+      },
+      {
+        "id": "707",
+        "name": "Red Pokéblock+ II"
+      },
+      {
+        "id": "708",
+        "name": "Red Pokéblock III"
+      },
+      {
+        "id": "709",
+        "name": "Red Pokéblock+ III"
+      },
+      {
+        "id": "710",
+        "name": "Blue Pokéblock I"
+      },
+      {
+        "id": "711",
+        "name": "Blue Pokéblock+ I"
+      },
+      {
+        "id": "712",
+        "name": "Blue Pokéblock II"
+      },
+      {
+        "id": "713",
+        "name": "Blue Pokéblock+ II"
+      },
+      {
+        "id": "714",
+        "name": "Blue Pokéblock III"
+      },
+      {
+        "id": "715",
+        "name": "Blue Pokéblock+ III"
+      },
+      {
+        "id": "716",
+        "name": "Pink Pokéblock I"
+      },
+      {
+        "id": "717",
+        "name": "Pink Pokéblock+ I"
+      },
+      {
+        "id": "718",
+        "name": "Pink Pokéblock II"
+      },
+      {
+        "id": "719",
+        "name": "Pink Pokéblock+ II"
+      },
+      {
+        "id": "720",
+        "name": "Pink Pokéblock III"
+      },
+      {
+        "id": "721",
+        "name": "Pink Pokéblock+ III"
+      },
+      {
+        "id": "722",
+        "name": "Green Pokéblock I"
+      },
+      {
+        "id": "723",
+        "name": "Green Pokéblock+ I"
+      },
+      {
+        "id": "724",
+        "name": "Green Pokéblock II"
+      },
+      {
+        "id": "725",
+        "name": "Green Pokéblock+ II"
+      },
+      {
+        "id": "726",
+        "name": "Green Pokéblock III"
+      },
+      {
+        "id": "727",
+        "name": "Green Pokéblock+ III"
+      },
+      {
+        "id": "728",
+        "name": "Yellow Pokéblock I"
+      },
+      {
+        "id": "729",
+        "name": "Yellow Pokéblock+ I"
+      },
+      {
+        "id": "730",
+        "name": "Yellow Pokéblock II"
+      },
+      {
+        "id": "731",
+        "name": "Yellow Pokéblock+ II"
+      },
+      {
+        "id": "732",
+        "name": "Purple Pokéblock I A"
+      },
+      {
+        "id": "733",
+        "name": "Purple Pokéblock+ I A"
+      },
+      {
+        "id": "734",
+        "name": "Purple Pokéblock I B"
+      },
+      {
+        "id": "735",
+        "name": "Purple Pokéblock+ I B"
+      },
+      {
+        "id": "736",
+        "name": "Purple Pokéblock I C"
+      },
+      {
+        "id": "737",
+        "name": "Purple Pokéblock+ I C"
+      },
+      {
+        "id": "738",
+        "name": "Purple Pokéblock II C"
+      },
+      {
+        "id": "739",
+        "name": "Purple Pokéblock+ II C"
+      },
+      {
+        "id": "740",
+        "name": "Purple Pokéblock III A"
+      },
+      {
+        "id": "741",
+        "name": "Purple Pokéblock+ III A"
+      },
+      {
+        "id": "742",
+        "name": "Purple Pokéblock III D"
+      },
+      {
+        "id": "743",
+        "name": "Purple Pokéblock+ III D"
+      },
+      {
+        "id": "744",
+        "name": "Purple Pokéblock IV"
+      },
+      {
+        "id": "745",
+        "name": "Purple Pokéblock+ IV"
+      },
+      {
+        "id": "746",
+        "name": "Purple Pokéblock V"
+      },
+      {
+        "id": "747",
+        "name": "Purple Pokéblock+ V"
+      },
+      {
+        "id": "748",
+        "name": "Indigo Pokéblock I A"
+      },
+      {
+        "id": "749",
+        "name": "Indigo Pokéblock+ I A"
+      },
+      {
+        "id": "750",
+        "name": "Indigo Pokéblock I B"
+      },
+      {
+        "id": "751",
+        "name": "Indigo Pokéblock+ I B"
+      },
+      {
+        "id": "752",
+        "name": "Indigo Pokéblock I C"
+      },
+      {
+        "id": "753",
+        "name": "Indigo Pokéblock+ I C"
+      },
+      {
+        "id": "754",
+        "name": "Indigo Pokéblock II C"
+      },
+      {
+        "id": "755",
+        "name": "Indigo Pokéblock+ II C"
+      },
+      {
+        "id": "756",
+        "name": "Indigo Pokéblock III A"
+      },
+      {
+        "id": "757",
+        "name": "Indigo Pokéblock+ III A"
+      },
+      {
+        "id": "758",
+        "name": "Indigo Pokéblock III D"
+      },
+      {
+        "id": "759",
+        "name": "Indigo Pokéblock+ III D"
+      },
+      {
+        "id": "760",
+        "name": "Indigo Pokéblock IV"
+      },
+      {
+        "id": "761",
+        "name": "Indigo Pokéblock+ IV"
+      },
+      {
+        "id": "762",
+        "name": "Indigo Pokéblock V"
+      },
+      {
+        "id": "763",
+        "name": "Indigo Pokéblock+ V"
+      },
+      {
+        "id": "764",
+        "name": "Brown Pokéblock I A"
+      },
+      {
+        "id": "765",
+        "name": "Brown Pokéblock+ I A"
+      },
+      {
+        "id": "766",
+        "name": "Brown Pokéblock I B"
+      },
+      {
+        "id": "767",
+        "name": "Brown Pokéblock+ I B"
+      },
+      {
+        "id": "768",
+        "name": "Brown Pokéblock I C"
+      },
+      {
+        "id": "769",
+        "name": "Brown Pokéblock+ I C"
+      },
+      {
+        "id": "770",
+        "name": "Brown Pokéblock II C"
+      },
+      {
+        "id": "771",
+        "name": "Brown Pokéblock+ II C"
+      },
+      {
+        "id": "772",
+        "name": "Brown Pokéblock III A"
+      },
+      {
+        "id": "773",
+        "name": "Brown Pokéblock+ III A"
+      },
+      {
+        "id": "774",
+        "name": "Brown Pokéblock III D"
+      },
+      {
+        "id": "775",
+        "name": "Brown Pokéblock+ III D"
+      },
+      {
+        "id": "776",
+        "name": "Brown Pokéblock IV"
+      },
+      {
+        "id": "777",
+        "name": "Brown Pokéblock+ IV"
+      },
+      {
+        "id": "778",
+        "name": "Brown Pokéblock V"
+      },
+      {
+        "id": "779",
+        "name": "Brown Pokéblock+ V"
+      },
+      {
+        "id": "780",
+        "name": "LiteBlue Pokéblock I A"
+      },
+      {
+        "id": "781",
+        "name": "LiteBlue Pokéblock+ I A"
+      },
+      {
+        "id": "782",
+        "name": "LiteBlue Pokéblock I B"
+      },
+      {
+        "id": "783",
+        "name": "LiteBlue Pokéblock+ I B"
+      },
+      {
+        "id": "784",
+        "name": "LiteBlue Pokéblock I C"
+      },
+      {
+        "id": "785",
+        "name": "LiteBlue Pokéblock+ I C"
+      },
+      {
+        "id": "786",
+        "name": "LiteBlue Pokéblock II C"
+      },
+      {
+        "id": "787",
+        "name": "LiteBlue Pokéblock+ II C"
+      },
+      {
+        "id": "788",
+        "name": "LiteBlue Pokéblock III D"
+      },
+      {
+        "id": "789",
+        "name": "LiteBlue Pokéblock+ III D"
+      },
+      {
+        "id": "790",
+        "name": "LiteBlue Pokéblock IV"
+      },
+      {
+        "id": "791",
+        "name": "LiteBlue Pokéblock+ IV"
+      },
+      {
+        "id": "792",
+        "name": "LiteBlue Pokéblock V"
+      },
+      {
+        "id": "793",
+        "name": "LiteBlue Pokéblock+ V"
+      },
+      {
+        "id": "794",
+        "name": "Olive Pokéblock I A"
+      },
+      {
+        "id": "795",
+        "name": "Olive Pokéblock+ I A"
+      },
+      {
+        "id": "796",
+        "name": "Olive Pokéblock I B"
+      },
+      {
+        "id": "797",
+        "name": "Olive Pokéblock+ I B"
+      },
+      {
+        "id": "798",
+        "name": "Olive Pokéblock I C"
+      },
+      {
+        "id": "799",
+        "name": "Olive Pokéblock+ I C"
+      },
+      {
+        "id": "800",
+        "name": "Olive Pokéblock II C"
+      },
+      {
+        "id": "801",
+        "name": "Olive Pokéblock+ II C"
+      },
+      {
+        "id": "802",
+        "name": "Olive Pokéblock III D"
+      },
+      {
+        "id": "803",
+        "name": "Olive Pokéblock+ III D"
+      },
+      {
+        "id": "804",
+        "name": "Olive Pokéblock IV"
+      },
+      {
+        "id": "805",
+        "name": "Olive Pokéblock+ IV"
+      },
+      {
+        "id": "806",
+        "name": "Olive Pokéblock V"
+      },
+      {
+        "id": "807",
+        "name": "Olive Pokéblock+ V"
+      },
+      {
+        "id": "808",
+        "name": "Gold Pokéblock A"
+      },
+      {
+        "id": "809",
+        "name": "Gold Pokéblock+ A"
+      },
+      {
+        "id": "810",
+        "name": "Gold Pokéblock B"
+      },
+      {
+        "id": "811",
+        "name": "Gold Pokéblock+ B"
+      },
+      {
+        "id": "812",
+        "name": "Gold Pokéblock C"
+      },
+      {
+        "id": "813",
+        "name": "Gold Pokéblock+ C"
+      },
+      {
+        "id": "814",
+        "name": "Gold Pokéblock D"
+      },
+      {
+        "id": "815",
+        "name": "Gold Pokéblock+ D"
+      },
+      {
+        "id": "816",
+        "name": "Gold Pokéblock E"
+      },
+      {
+        "id": "817",
+        "name": "Gold Pokéblock+ E"
+      },
+      {
+        "id": "852",
+        "name": "Black Pokéblock"
+      }
+    ],
+    "Z-Crystals": [
+      {
+        "id": "829",
+        "name": "Normalium Fragment"
+      },
+      {
+        "id": "683",
+        "name": "Normalium Z"
+      },
+      {
+        "id": "830",
+        "name": "Firium Fragment"
+      },
+      {
+        "id": "684",
+        "name": "Firium Z"
+      },
+      {
+        "id": "831",
+        "name": "Waterium Fragment"
+      },
+      {
+        "id": "685",
+        "name": "Waterium Z"
+      },
+      {
+        "id": "832",
+        "name": "Electrium Fragment"
+      },
+      {
+        "id": "686",
+        "name": "Electrium Z"
+      },
+      {
+        "id": "833",
+        "name": "Grassium Fragment"
+      },
+      {
+        "id": "687",
+        "name": "Grassium Z"
+      },
+      {
+        "id": "834",
+        "name": "Icium Fragment"
+      },
+      {
+        "id": "688",
+        "name": "Icium Z"
+      },
+      {
+        "id": "835",
+        "name": "Fightinium Fragment"
+      },
+      {
+        "id": "689",
+        "name": "Fightinium Z"
+      },
+      {
+        "id": "836",
+        "name": "Poisonium Fragment"
+      },
+      {
+        "id": "690",
+        "name": "Poisonium Z"
+      },
+      {
+        "id": "837",
+        "name": "Groundium Fragment"
+      },
+      {
+        "id": "691",
+        "name": "Groundium Z"
+      },
+      {
+        "id": "838",
+        "name": "Flyinium Fragment"
+      },
+      {
+        "id": "692",
+        "name": "Flyinium Z"
+      },
+      {
+        "id": "839",
+        "name": "Psychium Fragment"
+      },
+      {
+        "id": "693",
+        "name": "Psychium Z"
+      },
+      {
+        "id": "840",
+        "name": "Buginium Fragment"
+      },
+      {
+        "id": "694",
+        "name": "Buginium Z"
+      },
+      {
+        "id": "841",
+        "name": "Rockium Fragment"
+      },
+      {
+        "id": "695",
+        "name": "Rockium Z"
+      },
+      {
+        "id": "842",
+        "name": "Ghostium Fragment"
+      },
+      {
+        "id": "696",
+        "name": "Ghostium Z"
+      },
+      {
+        "id": "843",
+        "name": "Dragonium Fragment"
+      },
+      {
+        "id": "697",
+        "name": "Dragonium Z"
+      },
+      {
+        "id": "844",
+        "name": "Darkinium Fragment"
+      },
+      {
+        "id": "698",
+        "name": "Darkinium Z"
+      },
+      {
+        "id": "845",
+        "name": "Steelium Fragment"
+      },
+      {
+        "id": "699",
+        "name": "Steelium Z"
+      },
+      {
+        "id": "846",
+        "name": "Fairium Fragment"
+      },
+      {
+        "id": "700",
+        "name": "Fairium Z"
+      }
+    ],
+    "Costumes": [
+      {
+        "id": "544",
+        "name": "Villain Costume"
+      },
+      {
+        "id": "870",
+        "name": "Celebration Costume"
+      },
+      {
+        "id": "616",
+        "name": "Santa Claus Costume"
+      }
+    ],
+    "Gems": [
+      {
+        "id": "42",
+        "name": "Normal Gem"
+      },
+      {
+        "id": "458",
+        "name": "Medium Normal Gem"
+      },
+      {
+        "id": "459",
+        "name": "Large Normal Gem"
+      },
+      {
+        "id": "496",
+        "name": "Flawless Normal Gem"
+      },
+      {
+        "id": "43",
+        "name": "Fire Gem"
+      },
+      {
+        "id": "460",
+        "name": "Medium Fire Gem"
+      },
+      {
+        "id": "461",
+        "name": "Large Fire Gem"
+      },
+      {
+        "id": "497",
+        "name": "Flawless Fire Gem"
+      },
+      {
+        "id": "44",
+        "name": "Water Gem"
+      },
+      {
+        "id": "462",
+        "name": "Medium Water Gem"
+      },
+      {
+        "id": "463",
+        "name": "Large Water Gem"
+      },
+      {
+        "id": "498",
+        "name": "Flawless Water Gem"
+      },
+      {
+        "id": "45",
+        "name": "Electric Gem"
+      },
+      {
+        "id": "464",
+        "name": "Medium Electric Gem"
+      },
+      {
+        "id": "465",
+        "name": "Large Electric Gem"
+      },
+      {
+        "id": "499",
+        "name": "Flawless Electric Gem"
+      },
+      {
+        "id": "46",
+        "name": "Grass Gem"
+      },
+      {
+        "id": "466",
+        "name": "Medium Grass Gem"
+      },
+      {
+        "id": "467",
+        "name": "Large Grass Gem"
+      },
+      {
+        "id": "500",
+        "name": "Flawless Grass Gem"
+      },
+      {
+        "id": "47",
+        "name": "Ice Gem"
+      },
+      {
+        "id": "468",
+        "name": "Medium Ice Gem"
+      },
+      {
+        "id": "469",
+        "name": "Large Ice Gem"
+      },
+      {
+        "id": "501",
+        "name": "Flawless Ice Gem"
+      },
+      {
+        "id": "48",
+        "name": "Fighting Gem"
+      },
+      {
+        "id": "470",
+        "name": "Medium Fighting Gem"
+      },
+      {
+        "id": "471",
+        "name": "Large Fighting Gem"
+      },
+      {
+        "id": "502",
+        "name": "Flawless Fighting Gem"
+      },
+      {
+        "id": "49",
+        "name": "Poison Gem"
+      },
+      {
+        "id": "472",
+        "name": "Medium Poison Gem"
+      },
+      {
+        "id": "473",
+        "name": "Large Poison Gem"
+      },
+      {
+        "id": "503",
+        "name": "Flawless Poison Gem"
+      },
+      {
+        "id": "50",
+        "name": "Ground Gem"
+      },
+      {
+        "id": "474",
+        "name": "Medium Ground Gem"
+      },
+      {
+        "id": "475",
+        "name": "Large Ground Gem"
+      },
+      {
+        "id": "504",
+        "name": "Flawless Ground Gem"
+      },
+      {
+        "id": "51",
+        "name": "Flying Gem"
+      },
+      {
+        "id": "476",
+        "name": "Medium Flying Gem"
+      },
+      {
+        "id": "477",
+        "name": "Large Flying Gem"
+      },
+      {
+        "id": "505",
+        "name": "Flawless Flying Gem"
+      },
+      {
+        "id": "52",
+        "name": "Psychic Gem"
+      },
+      {
+        "id": "478",
+        "name": "Medium Psychic Gem"
+      },
+      {
+        "id": "479",
+        "name": "Large Psychic Gem"
+      },
+      {
+        "id": "506",
+        "name": "Flawless Psychic Gem"
+      },
+      {
+        "id": "53",
+        "name": "Bug Gem"
+      },
+      {
+        "id": "480",
+        "name": "Medium Bug Gem"
+      },
+      {
+        "id": "481",
+        "name": "Large Bug Gem"
+      },
+      {
+        "id": "507",
+        "name": "Flawless Bug Gem"
+      },
+      {
+        "id": "54",
+        "name": "Rock Gem"
+      },
+      {
+        "id": "482",
+        "name": "Medium Rock Gem"
+      },
+      {
+        "id": "483",
+        "name": "Large Rock Gem"
+      },
+      {
+        "id": "508",
+        "name": "Flawless Rock Gem"
+      },
+      {
+        "id": "55",
+        "name": "Ghost Gem"
+      },
+      {
+        "id": "484",
+        "name": "Medium Ghost Gem"
+      },
+      {
+        "id": "485",
+        "name": "Large Ghost Gem"
+      },
+      {
+        "id": "509",
+        "name": "Flawless Ghost Gem"
+      },
+      {
+        "id": "56",
+        "name": "Dragon Gem"
+      },
+      {
+        "id": "486",
+        "name": "Medium Dragon Gem"
+      },
+      {
+        "id": "487",
+        "name": "Large Dragon Gem"
+      },
+      {
+        "id": "510",
+        "name": "Flawless Dragon Gem"
+      },
+      {
+        "id": "57",
+        "name": "Dark Gem"
+      },
+      {
+        "id": "488",
+        "name": "Medium Dark Gem"
+      },
+      {
+        "id": "489",
+        "name": "Large Dark Gem"
+      },
+      {
+        "id": "511",
+        "name": "Flawless Dark Gem"
+      },
+      {
+        "id": "58",
+        "name": "Steel Gem"
+      },
+      {
+        "id": "490",
+        "name": "Medium Steel Gem"
+      },
+      {
+        "id": "491",
+        "name": "Large Steel Gem"
+      },
+      {
+        "id": "512",
+        "name": "Flawless Steel Gem"
+      },
+      {
+        "id": "164",
+        "name": "Fairy Gem"
+      },
+      {
+        "id": "492",
+        "name": "Medium Fairy Gem"
+      },
+      {
+        "id": "493",
+        "name": "Large Fairy Gem"
+      },
+      {
+        "id": "513",
+        "name": "Flawless Fairy Gem"
+      }
+    ],
+    "Fishing Gear": [
+      {
+        "id": "596",
+        "name": "Freshwater Bait"
+      },
+      {
+        "id": "620",
+        "name": "Stillwater Bait"
+      },
+      {
+        "id": "621",
+        "name": "Saltwater Bait"
+      },
+      {
+        "id": "622",
+        "name": "Deepwater Bait"
+      },
+      {
+        "id": "597",
+        "name": "Fishing Poké Ball"
+      },
+      {
+        "id": "623",
+        "name": "Fishing Great Ball"
+      },
+      {
+        "id": "624",
+        "name": "Fishing Ultra Ball"
+      }
+    ],
+    "Common Berries": [
+      {
+        "id": "59",
+        "name": "Cheri Berry"
+      },
+      {
+        "id": "60",
+        "name": "Chesto Berry"
+      },
+      {
+        "id": "61",
+        "name": "Pecha Berry"
+      },
+      {
+        "id": "62",
+        "name": "Rawst Berry"
+      },
+      {
+        "id": "63",
+        "name": "Aspear Berry"
+      },
+      {
+        "id": "64",
+        "name": "Leppa Berry"
+      },
+      {
+        "id": "65",
+        "name": "Oran Berry"
+      },
+      {
+        "id": "66",
+        "name": "Persim Berry"
+      },
+      {
+        "id": "67",
+        "name": "Lum Berry"
+      },
+      {
+        "id": "68",
+        "name": "Sitrus Berry"
+      },
+      {
+        "id": "69",
+        "name": "Figy Berry"
+      },
+      {
+        "id": "70",
+        "name": "Wiki Berry"
+      },
+      {
+        "id": "71",
+        "name": "Mago Berry"
+      },
+      {
+        "id": "72",
+        "name": "Aguav Berry"
+      },
+      {
+        "id": "73",
+        "name": "Iapapa Berry"
+      }
+    ],
+    "Berries": [
+      {
+        "id": "74",
+        "name": "Razz Berry"
+      },
+      {
+        "id": "75",
+        "name": "Bluk Berry"
+      },
+      {
+        "id": "76",
+        "name": "Nanab Berry"
+      },
+      {
+        "id": "77",
+        "name": "Wepear Berry"
+      },
+      {
+        "id": "78",
+        "name": "Pinap Berry"
+      },
+      {
+        "id": "79",
+        "name": "Pomeg Berry"
+      },
+      {
+        "id": "80",
+        "name": "Kelpsy Berry"
+      },
+      {
+        "id": "81",
+        "name": "Qualot Berry"
+      },
+      {
+        "id": "82",
+        "name": "Hondew Berry"
+      },
+      {
+        "id": "83",
+        "name": "Grepa Berry"
+      },
+      {
+        "id": "84",
+        "name": "Tamato Berry"
+      },
+      {
+        "id": "85",
+        "name": "Cornn Berry"
+      },
+      {
+        "id": "86",
+        "name": "Magost Berry"
+      },
+      {
+        "id": "87",
+        "name": "Rabuta Berry"
+      },
+      {
+        "id": "88",
+        "name": "Nomel Berry"
+      },
+      {
+        "id": "89",
+        "name": "Spelon Berry"
+      },
+      {
+        "id": "90",
+        "name": "Pamtre Berry"
+      },
+      {
+        "id": "91",
+        "name": "Watmel Berry"
+      },
+      {
+        "id": "92",
+        "name": "Durin Berry"
+      },
+      {
+        "id": "93",
+        "name": "Belue Berry"
+      }
+    ],
+    "Rare Berries": [
+      {
+        "id": "94",
+        "name": "Occa Berry"
+      },
+      {
+        "id": "95",
+        "name": "Passho Berry"
+      },
+      {
+        "id": "96",
+        "name": "Wacan Berry"
+      },
+      {
+        "id": "97",
+        "name": "Rindo Berry"
+      },
+      {
+        "id": "98",
+        "name": "Yache Berry"
+      },
+      {
+        "id": "99",
+        "name": "Chople Berry"
+      },
+      {
+        "id": "100",
+        "name": "Kebia Berry"
+      },
+      {
+        "id": "101",
+        "name": "Shuca Berry"
+      },
+      {
+        "id": "102",
+        "name": "Coba Berry"
+      },
+      {
+        "id": "103",
+        "name": "Payapa Berry"
+      },
+      {
+        "id": "104",
+        "name": "Tanga Berry"
+      },
+      {
+        "id": "105",
+        "name": "Charti Berry"
+      },
+      {
+        "id": "106",
+        "name": "Kasib Berry"
+      },
+      {
+        "id": "107",
+        "name": "Haban Berry"
+      },
+      {
+        "id": "108",
+        "name": "Colbur Berry"
+      },
+      {
+        "id": "109",
+        "name": "Babiri Berry"
+      },
+      {
+        "id": "572",
+        "name": "Roseli Berry"
+      },
+      {
+        "id": "110",
+        "name": "Chilan Berry"
+      }
+    ],
+    "Special Berries": [
+      {
+        "id": "111",
+        "name": "Liechi Berry"
+      },
+      {
+        "id": "112",
+        "name": "Ganlon Berry"
+      },
+      {
+        "id": "113",
+        "name": "Salac Berry"
+      },
+      {
+        "id": "114",
+        "name": "Petaya Berry"
+      },
+      {
+        "id": "115",
+        "name": "Apicot Berry"
+      },
+      {
+        "id": "116",
+        "name": "Lansat Berry"
+      },
+      {
+        "id": "117",
+        "name": "Starf Berry"
+      },
+      {
+        "id": "573",
+        "name": "Kee Berry"
+      },
+      {
+        "id": "574",
+        "name": "Maranga Berry"
+      },
+      {
+        "id": "118",
+        "name": "Enigma Berry"
+      },
+      {
+        "id": "119",
+        "name": "Micle Berry"
+      },
+      {
+        "id": "120",
+        "name": "Custap Berry"
+      },
+      {
+        "id": "121",
+        "name": "Jaboca Berry"
+      },
+      {
+        "id": "122",
+        "name": "Rowap Berry"
+      }
+    ],
+    "Mulch": [
+      {
+        "id": "166",
+        "name": "Damp Mulch"
+      },
+      {
+        "id": "168",
+        "name": "Gooey Mulch"
+      },
+      {
+        "id": "165",
+        "name": "Growth Mulch"
+      },
+      {
+        "id": "167",
+        "name": "Stable Mulch"
+      },
+      {
+        "id": "676",
+        "name": "Amaze Mulch"
+      }
+    ],
+    "Boxes": [
+      {
+        "id": "187",
+        "name": "Premium Box"
+      },
+      {
+        "id": "139",
+        "name": "Cute Box"
+      },
+      {
+        "id": "140",
+        "name": "Dainty Box"
+      },
+      {
+        "id": "141",
+        "name": "Deluxe Box"
+      },
+      {
+        "id": "142",
+        "name": "Glittery Box"
+      },
+      {
+        "id": "143",
+        "name": "Gorgeous Box"
+      },
+      {
+        "id": "144",
+        "name": "Hard Box"
+      },
+      {
+        "id": "145",
+        "name": "Heavy Box"
+      },
+      {
+        "id": "146",
+        "name": "Light Box"
+      },
+      {
+        "id": "147",
+        "name": "Nifty Box"
+      },
+      {
+        "id": "148",
+        "name": "Pretty Box"
+      },
+      {
+        "id": "149",
+        "name": "Shiny Box"
+      },
+      {
+        "id": "150",
+        "name": "Sinister Box"
+      },
+      {
+        "id": "302",
+        "name": "Box Box"
+      }
+    ],
+    "Treasure": [
+      {
+        "id": "155",
+        "name": "Relic Copper"
+      },
+      {
+        "id": "156",
+        "name": "Relic Silver"
+      },
+      {
+        "id": "157",
+        "name": "Relic Gold"
+      },
+      {
+        "id": "158",
+        "name": "Relic Vase"
+      },
+      {
+        "id": "159",
+        "name": "Relic Band"
+      },
+      {
+        "id": "161",
+        "name": "Relic Crown"
+      },
+      {
+        "id": "575",
+        "name": "Brick Piece"
+      },
+      {
+        "id": "576",
+        "name": "Pretty Wing"
+      },
+      {
+        "id": "577",
+        "name": "Tiny Mushroom"
+      },
+      {
+        "id": "578",
+        "name": "Silver Leaf"
+      },
+      {
+        "id": "579",
+        "name": "Pearl"
+      },
+      {
+        "id": "580",
+        "name": "Gold Leaf"
+      },
+      {
+        "id": "581",
+        "name": "Stardust"
+      },
+      {
+        "id": "582",
+        "name": "Big Mushroom"
+      },
+      {
+        "id": "583",
+        "name": "Big Pearl"
+      },
+      {
+        "id": "584",
+        "name": "Star Piece"
+      },
+      {
+        "id": "585",
+        "name": "Rare Bone"
+      },
+      {
+        "id": "586",
+        "name": "Nugget"
+      }
+    ],
+    "Fossils": [
+      {
+        "id": "289",
+        "name": "Dome Fossil"
+      },
+      {
+        "id": "290",
+        "name": "Helix Fossil"
+      },
+      {
+        "id": "561",
+        "name": "Old Amber"
+      },
+      {
+        "id": "562",
+        "name": "Root Fossil"
+      },
+      {
+        "id": "563",
+        "name": "Claw Fossil"
+      },
+      {
+        "id": "564",
+        "name": "Skull Fossil"
+      },
+      {
+        "id": "565",
+        "name": "Armour Fossil"
+      },
+      {
+        "id": "566",
+        "name": "Cover Fossil"
+      },
+      {
+        "id": "567",
+        "name": "Plume Fossil"
+      },
+      {
+        "id": "568",
+        "name": "Jaw Fossil"
+      },
+      {
+        "id": "569",
+        "name": "Sail Fossil"
+      }
+    ],
+    "Event Items": [
+      {
+        "id": "665",
+        "name": "Easter Ticket"
+      },
+      {
+        "id": "825",
+        "name": "Tier 1 Salon Voucher"
+      },
+      {
+        "id": "826",
+        "name": "Tier 2 Salon Voucher"
+      },
+      {
+        "id": "827",
+        "name": "Tier 3 Salon Voucher"
+      },
+      {
+        "id": "587",
+        "name": "Tournament Token (Blue)"
+      },
+      {
+        "id": "598",
+        "name": "Tournament Token (Red)"
+      },
+      {
+        "id": "630",
+        "name": "Tournament Token (Yellow)"
+      },
+      {
+        "id": "669",
+        "name": "Tournament Token (Green)"
+      },
+      {
+        "id": "702",
+        "name": "Tournament Token (Water)"
+      },
+      {
+        "id": "824",
+        "name": "Tournament Token (Fire)"
+      },
+      {
+        "id": "856",
+        "name": "Tournament Token (Electric)"
+      },
+      {
+        "id": "864",
+        "name": "Tournament Token (Grass)"
+      },
+      {
+        "id": "869",
+        "name": "Tournament Token (Sapphire)"
+      },
+      {
+        "id": "874",
+        "name": "Tournament Token (Ruby)"
+      },
+      {
+        "id": "877",
+        "name": "Tournament Token (Citrine)"
+      }
+    ]
+  }

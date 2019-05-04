@@ -1,0 +1,45 @@
+[sc=item-list][h3]TITLE[/h3]MAPPED_ITEMS[/sc]
+[style]
+.item-list {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.item-list > h3 {
+    flex: 1 1 100%;
+}
+
+// outer wrapper for a single item
+.q {
+    flex: 1 1 180px;
+    overflow: hidden;
+}
+
+// inner wrapper for a single item
+.q > div {
+    background: rgb(255,255,240);
+    color: rgb(60,60,20);
+    margin: 1px;
+    height: 100%;
+    font-size: 0.75rem;
+    display: flex;
+    align-items: center;
+}
+
+// item sprite
+.q > div > img {
+    margin: 2px;
+}
+
+// inventory count
+.q > div > div:last-of-type {
+    margin-left: auto;
+    margin-right: 2px;
+    &:before {
+        content: "x"
+    }
+}
+
+// this section hides unavailable items
+MAPPED_CSS
+[/style]
