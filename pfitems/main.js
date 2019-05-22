@@ -33,8 +33,12 @@ async function main() {
         let prev = document.querySelector('li.selected')
         if (prev) {
             prev.classList.toggle('selected')
+            prev.classList.toggle('pure-button-active')
+            prev.classList.toggle('pure-button-primary')
         }
         ctx.node.classList.toggle('selected')
+        ctx.node.classList.toggle('pure-button-active')
+        ctx.node.classList.toggle('pure-button-primary')
         ractive.set('selected', name)
 
         //render template
